@@ -15,9 +15,9 @@ The constructions are experimental and prototypes. We accept no responsibility f
 
 ## 📂 File Contents
 
-This repository contains the following file types:
+The repository is divided into different folders each containing a design project. Each porject contains the following file types:
 
-* **/Source**: Native project files (e.g., `.DWG`, Step`).
+Native project files (e.g., `.DWG`, `Step`,`STL`).
     * *Use these to edit the geometry*
 * **/Drawings**: Universal formats (`.PDF`).
     * *Example technical Drawings*
