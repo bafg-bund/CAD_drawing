@@ -6,9 +6,9 @@ This repository contains the design files for a **transparent respiration hood**
 Click the image below to open the **interactive 3D viewer** and inspect the STL model.
 
 <a href="pflanze1.stl">
-  <img src="pflanze1.png" width="300" alt="3D Vorschau der Haube">
+  <img src="pflanze1.png" width="300" alt="3D Preview">
 </a>
-<p><i>Klicke auf das Bild für die 3D-Ansicht.</i></p>
+<p><i>Klick for 3D previewt.</i></p>
 
 *Click the image to rotate and zoom the model in 3D.*
 
