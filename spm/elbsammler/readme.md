@@ -1,8 +1,7 @@
 # Suspended matter collector type "Elbsammler"
 
 ![Project Status](https://img.shields.io/badge/Status-Prototype-yellow)
-![License](https://img.shields.io/badge/License-CERN--OHL--W-blue)
-![CAD System](https://img.shields.io/badge/CAD-FreeCAD%2Ffusion360-orange)
+
 
 This repository contains the **construction drawings, CAD models* for a mechanical Suspended Matter Collector. The repository contains each part as well as the assembly and construciton drawings
 
