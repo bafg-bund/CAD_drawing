@@ -1,5 +1,5 @@
 # Simple Plant Respiration Hood
-
+![Project Status](https://img.shields.io/badge/Status-Prototype-yellow)
 This repository contains the design files for a **transparent respiration hood** designed for botanical gas exchange measurements. The goal of this project was to create a simple, low-cost, and easy-to-use enclosure to monitor the respiration of small plants or soil samples.
 
 ## 3D Preview & Design
