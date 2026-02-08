@@ -16,6 +16,6 @@ Click the image below to open the **interactive 3D viewer** and inspect the STL 
 <a href="elbsammler.stl">
   <img src="elbsammler.png" width="300" alt="3D preview of elbsammler">
 </a>
-<p><i>Klick for preview.</i></p>
+<p><i>Click for preview.</i></p>
 
 *Click the image to rotate and zoom the model in 3D.*
