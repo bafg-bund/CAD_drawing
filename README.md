@@ -1,6 +1,7 @@
 # CAD_drawing
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+![Project Status](https://img.shields.io/badge/Status-Prototype-yellow)
 
 ## 📖 About This Project
 During various scientifc projects and routine work We constalty develop and improve parts, setups which are used in environmetal monitoring of rivers. With this repository we want to publish our construction drawings to spread the knowledge and also to get feedpack and suggestsions for our work.
