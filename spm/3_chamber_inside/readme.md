@@ -11,8 +11,8 @@ This device is designed to stand in a measurement station and be connected to an
 ## 3D Preview & Design
 Click the image below to open the **interactive 3D viewer** and inspect the STL model.
 
-<a href="assembly_all.stl">
-  <img src="assembly_all.png" width="300" alt="3D preview of 3 chamber inside">
+<a href="grosse_falle.stl">
+  <img src="grosse_falle.png" width="300" alt="3D preview of 3 chamber inside">
 </a>
 <p><i>Click for preview.</i></p>
 
