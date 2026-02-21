@@ -1,0 +1,21 @@
+# Suspended matter collector type 3 chamber inside
+
+![Project Status](https://img.shields.io/badge/Status-Prototype-yellow)
+
+
+This repository contains the **construction drawings, CAD models* for a mechanical Suspended Matter Collector. The repository contains each part as well as the assembly and construciton drawings
+
+This device is designed to be placed directly into the river. The side with more holes is facing upstream. Inside the cahmber the water is slowed down and has to move passed baffle plates where it can sediment into the trays.
+The sediment trap can be attached with eyebolts ![eyebolt](ringschraube.jpg) to a stainless steel chain.
+The construction material used is stainless steel. At the BfG it is used for collecting samples for the [Umweltprobenbank](www.umweltprobenbank.de)
+
+
+## 3D Preview & Design
+Click the image below to open the **interactive 3D viewer** and inspect the STL model.
+
+<a href="grosse_falle.stl">
+  <img src="grosse_falle.png" width="300" alt="3D preview of 3 chamber inside">
+</a>
+<p><i>Click for preview.</i></p>
+
+*Click the image to rotate and zoom the model in 3D.*
