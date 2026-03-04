@@ -12,10 +12,6 @@ The constructions are experimental and prototypes. We do not guarantee complianc
 The repository is divided into different folders each containing a design project. Each porject contains the following file types:
 
 Native project files (e.g., `.DWG`, `Step`,`STL`).
-    * *Use these to edit the geometry*
-* **/Drawings**: Universal formats (`.PDF`).
-    * *Example technical Drawings*
-* **/Renders**: High-resolution images of the  design.
 
 ---
 
