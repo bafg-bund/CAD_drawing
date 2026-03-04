@@ -3,7 +3,7 @@
 ![Project Status](https://img.shields.io/badge/Status-Prototype-yellow)
 
 
-This repository contains the **construction drawings, CAD models* for a mechanical Suspended Matter Collector. The repository contains each part as well as the assembly and construciton drawings
+This repository contains the construction drawings, CAD models for a mechanical Suspended Matter Collector. The repository contains each part as well as the assembly and construciton drawings
 
 This is an alternatice lid for the G4 Sammpler, which can hold Sensors.
 The construction material should be PVC or on our usecase black PE. This type is mainly used at environmental radiology monitoring stations where we need extra sensor mountings.
