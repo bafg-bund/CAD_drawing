@@ -13,8 +13,15 @@ The basin can hold water quality sensors (eg. WTW Temp, pH, o2,..), a filter pla
 ## 3D Preview & Design
 Click the image below to open the **interactive 3D viewer** and inspect the STL model.
 
-<a href="profiltisch.stl">
-  <img src="profiltisch.png" width="300" alt="3D preview of G4 Sammler">
+<a href="zusammen_mit_sensoren">
+  <img src="zusammen_mit_sensoren" width="300" alt="3D preview of G4 Sammler">
+</a>
+<p><i>Click for preview.</i></p>
+
+### Basin with frame
+
+<a href="zusammen_ohne_sensoren">
+  <img src="zusammen_ohne_sensoren" width="300" alt="3D preview of G4 Sammler">
 </a>
 <p><i>Click for preview.</i></p>
 
