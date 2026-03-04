@@ -20,11 +20,10 @@ Native project files (e.g., `.DWG`, `Step`,`STL`).
 ---
 
 ## 💻 Compatibility & Usage
-These files were originally created using **[Software Name]**.
+These files were originally created using **[Onshape and FreeCAD]**.
 
 To use these drawings:
-1.  **For Editing:** Open the files in the `/Source` folder using [Software Name] or compatible CAD software.
-2.  **For Viewing:** The PDFs in `/Exports` can be viewed in any standard web browser.
+**For Editing:** Open the files with a standard CAD software. Previews are available
 
 More Dataformats are available on request and can also be shared via the Onshape plattform
 
