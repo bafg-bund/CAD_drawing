@@ -1,4 +1,4 @@
-#Aluminum profile frame (T-slot)"
+#Aluminum profile frame (T-slot)
 
 ![Project Status](https://img.shields.io/badge/Status-Prototype-yellow)
 
