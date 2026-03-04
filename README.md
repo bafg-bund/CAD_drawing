@@ -4,8 +4,8 @@
 ![Project Status](https://img.shields.io/badge/Status-Prototype-yellow)
 
 ## 📖 About This Project
-During various scientifc projects and routine work We constalty develop and improve parts, setups which are used in environmetal monitoring of rivers. With this repository we want to publish our construction drawings to spread the knowledge and also to get feedpack and suggestsions for our work.
-The constructions are experimental and prototypes. We accept no responsibility for standard-compliant execution or safety standards. However to the best of our knowledge we try to desgin safe and working parts. Before use and construction you must consult specialists in the respective field which assess the suitability for you use.
+During various scientifc projects and routine work we constanlty develop and improve parts, setups and equipment which are used in environmetal monitoring of rivers. With this repository we want to publish our construction drawings to spread the knowledge and also to get feedback and suggestions for our work.
+The constructions are experimental and prototypes. We do not guarantee compliance with standards or safety regulations. However, to the best of our knowledge, we try to desgin safe and working parts. Before cosntruction and use you must consult specialists in the respective field which assess the suitability for your deployment.
 
 **Design Notes:**
 * [Point 1: e.g., These drawings are 1:1 scale replicas of...]
