@@ -3,7 +3,7 @@
 ![Project Status](https://img.shields.io/badge/Status-Prototype-yellow)
 
 
-This repository contains the **construction drawings, CAD models* for a mechanical Suspended Matter Collector. The repository contains each part as well as the assembly and construciton drawings
+This repository contains the construction drawings, CAD models for a mechanical Suspended Matter Collector. The repository contains each part as well as the assembly and construciton drawings
 
 This device is designed to be placed directly into the river. The side with more holes is facing upstream. Inside the cahmber the water is slowed down and has to move passed baffle plates where it can sediment into the trays.
 The sediment trap can be attached with eyebolts ![eyebolt](ringschraube.jpg) to a stainless steel chain.
