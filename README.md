@@ -35,6 +35,7 @@ The repository is divided into three main top-level folders:
 - `guete`
 - `misc`
 - `spm`
+- 'env_radioactivity'
 
 Each of these folders contains one or more independent CAD design projects. Together, they cover a range of practical use cases from continuous water-quality monitoring to sediment collection and small custom measurement accessories.
 
@@ -51,9 +52,15 @@ The `misc` folder contains smaller or more specialized projects that do not fall
 
 ## 3. `spm`: Suspended Matter Collectors
 
-The largest thematic block in the repository is the `spm` folder. Here, `spm` refers to projects for **Suspended Matter Collectors**, i.e. mechanical systems designed to collect sediment or suspended particulate matter from flowing water.
+Here, `spm` refers to projects for **Suspended Matter Collectors**, i.e. mechanical systems designed to collect sediment or suspended particulate matter from flowing water.
 
 These designs are highly relevant for environmental sampling, especially where solid material transported by rivers needs to be captured for later analysis.
+
+## 3. `env_radioactivity`: Environmental Radiactivity
+
+The`env_radioactivity` fodler refers to projects for **Environmental Radiactivity Monitoring**, which is part of the legal duties for the BfG. Shown are designs for housing sensors used in the online gamma ray monitorign of rivers.
+
+
 
 ---
 
