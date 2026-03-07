@@ -1,4 +1,4 @@
-# Suspended matter collector type "G4 Sammpler"
+# Suspended matter collector type "G4 Sampler"
 
 ![Project Status](https://img.shields.io/badge/Status-Prototype-yellow)
 
