@@ -1,4 +1,4 @@
-# Housing of online gamma-measurement
+# Housing of online gamma-measurement chamber
 
 ![Project Status](https://img.shields.io/badge/Status-Prototype-yellow)
 
