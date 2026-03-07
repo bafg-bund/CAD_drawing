@@ -4,14 +4,56 @@
 ![Project Status](https://img.shields.io/badge/Status-Prototype-yellow)
 
 ## 📖 About This Project
-During various scientifc projects and routine work we constanlty develop and improve parts, setups and equipment which are used in environmetal monitoring of rivers. With this repository we want to publish our construction drawings to spread the knowledge and also to get feedback and suggestions for our work.
-The constructions are experimental and prototypes. We do not guarantee compliance with standards or safety regulations. However, to the best of our knowledge, we try to desgin safe and working parts. Before cosntruction and use you must consult specialists in the respective field which assess the suitability for your deployment.
+During various scientifc projects and routine work we constanlty develop and improve parts, setups and equipment which are used in environmetal monitoring of rivers.
+This GitHub repository **`bafg-bund/CAD_drawing`** is an open collection of CAD drawings and construction files.
+The repository describes itself as a way to publish practical engineering work developed during scientific projects and routine monitoring operations, with the dual aim of **sharing technical knowledge** and **inviting feedback or suggestions** from other users and institutions.
+The repository is a **prototype-oriented engineering collection** rather than a finished commercial product catalog. The maintainers state that the constructions are **experimental** and that they do **not guarantee compliance with standards or safety regulations**. We strongly recommend consulting specialists before constructing or deploying any of the designs in the field.
 
-## 📂 File Contents
+## Main Purpose of the Repository
 
-The repository is divided into different folders each containing a design project. Each porject contains the following file types:
+The main purpose of `CAD_drawing` is to document and publish the physical design work behind monitoring equipment used in hydrological and environmental contexts. Rather than focusing on software, data processing, or sensor electronics, the repository concentrates on the **mechanical and structural side** of environmental measurement systems.
 
-Native project files (e.g., `.DWG`, `Step`,`STL`).
+This includes:
+
+- housings and basins for water-quality sensors,
+- support frames and mounting structures,
+- suspended matter collectors for sediment or particulate sampling,
+- smaller custom accessories and laboratory or field-use components.
+
+The repository is therefore especially relevant for people who need to:
+
+- understand how a given sampling or monitoring setup is physically built,
+- reproduce selected components,
+- adapt an existing design to a different station or river environment,
+- use the repository as inspiration for related monitoring hardware.
+
+
+## General Repository Structure
+
+The repository is divided into three main top-level folders:
+
+- `guete`
+- `misc`
+- `spm`
+
+Each of these folders contains one or more independent CAD design projects. Together, they cover a range of practical use cases from continuous water-quality monitoring to sediment collection and small custom measurement accessories.
+
+---
+
+## 1. `guete`: Water-Quality Measurement Setups
+
+The `guete` section groups projects related to **water-quality measurement infrastructure**. These designs are intended for use in measurement stations where river water is actively pumped into a monitoring setup.
+
+
+## 2. `misc`: Smaller Auxiliary and Special-Purpose Designs
+
+The `misc` folder contains smaller or more specialized projects that do not fall directly into the main categories of water-quality basins or suspended matter collectors.
+
+## 3. `spm`: Suspended Matter Collectors
+
+The largest thematic block in the repository is the `spm` folder. Here, `spm` refers to projects for **Suspended Matter Collectors**, i.e. mechanical systems designed to collect sediment or suspended particulate matter from flowing water.
+
+These designs are highly relevant for environmental sampling, especially where solid material transported by rivers needs to be captured for later analysis.
 
 ---
 
