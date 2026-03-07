@@ -3,7 +3,7 @@
 ![Project Status](https://img.shields.io/badge/Status-Prototype-yellow)
 
 
-This repository contains the construction drawings, CAD models for a mechanical Suspended Matter Collector. The repository contains each part as well as the assembly and construciton drawings
+This repository contains the construction drawings, CAD models for a mechanical Suspended Matter Collector. The repository contains each part as well as the assembly and construciton drawings. The design was adopted from samplers used at the [Umweltprobenbank](www.umweltprobenbank.de).
 
 This device is designed to stand in a measurement station and be connected to an activly pumped river water line. The water is discharge via a free flow drain. Inside the cahmber the water is lowed down and has to move passed baffle plates where it can sediment into the trays. The construction material used is stainless steel. At the BfG it is used for collecting samples for the [Umweltprobenbank](www.umweltprobenbank.de)
 
